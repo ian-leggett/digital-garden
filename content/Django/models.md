@@ -6,7 +6,7 @@ description: ""
 date: 2025-05-29
 ---
 
-# Django Models: Essential Guide
+# Django Models
 
 ## What is a Model?
 A Django model is a Python class that defines a database table structure, with each attribute representing a database field.
@@ -23,12 +23,16 @@ class Author(models.Model):
     birth_date = models.DateField(null=True, blank=True)
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
-    
+    # This `__str__` method defines the string representation of a Django model instance.
+    # When Django needs to display this model object (in the admin interface, console output, etc.),
+    # it will use the value of the `name` field as the string representation.
+    # This makes the object more readable in the Django admin and when debugging.
     def __str__(self):
         return self.name
     
     class Meta:
-        ordering = ['name']
+        ordering = ['name']  # Default ordering by name
+        verbose_name_plural = 'Authors'  # Display name in admin
 
 class Book(models.Model):
     GENRE_CHOICES = [

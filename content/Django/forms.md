@@ -18,6 +18,13 @@ from django import forms
 class BookForm(forms.Form):
     title = forms.CharField(max_length=200)
     author = forms.CharField(max_length=100)
+    genre = forms.ChoiceField(choices=[
+        ('fiction', 'Fiction'),
+        ('non-fiction', 'Non-Fiction'),
+        ('sci-fi', 'Science Fiction'),
+        ('mystery', 'Mystery'),
+        ('biography', 'Biography'),
+    ])
     published_date = forms.DateField(widget=forms.DateInput(attrs={'type': 'date'}))
     description = forms.CharField(widget=forms.Textarea, required=False)
     price = forms.DecimalField(max_digits=6, decimal_places=2, required=False)

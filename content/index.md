@@ -11,6 +11,7 @@ Welcome to my knowledge base! This site contains notes on various programming an
 - [URLs](Django/urls.md)
 - [Admin](Django/admin.md)
 - [Queries](Django/queries.md)
+- [Q Objects](Django/Q.md)
 - [Manage.py](Django/manage.py.md)
 
 ### Python
