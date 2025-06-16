@@ -11,6 +11,18 @@ date: 2025-05-29
 ## What is a Model?
 A Django model is a Python class that defines a database table structure, with each attribute representing a database field.
 
+## Custom user model example
+```python
+from django.contrib.auth.models import AbstractUser
+from django.db import models                            
+
+class CustomUser(AbstractUser):
+    bio = models.TextField(blank=True)
+    birth_date = models.DateField(null=True, blank=True)
+    profile_picture = models.ImageField(upload_to='profile_pics/', null=True, blank=True)
+    def __str__(self):
+        return self.username
+```
 ## Basic Models with Relationships
 ```python
 from django.db import models

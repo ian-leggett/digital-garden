@@ -1,5 +1,5 @@
 ---
-title: "Queries"
+title: "Basic queries in Django"
 tags:
   - django
 description: ""
@@ -21,7 +21,7 @@ SomeTable.objects.filter(memorable_name__contains="some_string").first()
 SomeTable.objects.filter(field_name="value")
 ```
 
-### Filter by case-insensitive match
+### Filter by case-insensitive match`
 
 ```bash
 SomeTable.objects.filter(field_name__iexact="value")
