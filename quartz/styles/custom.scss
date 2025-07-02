@@ -1,3 +1,11 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+.profile-header {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 1rem;
+}
+
+.profile-image {
+  margin-top: 2.25rem;
+}

@@ -1,50 +1,66 @@
-# Full Stack Ian's Digital Garden
+---
+title: "Full Stack Ian's Digital Garden 🪴"
+description: "A comprehensive knowledge base covering software engineering, cloud technologies, and development best practices"
+tags: ["home", "knowledge-base", "programming", "cloud", "devops"]
+draft: false
+date: 2025-07-02
+lastmod: 2025-07-02
+---
 
-Welcome to my knowledge base! This site contains notes on various programming and cloud technologies.
+<div class="profile-header">
+    <div class="digital-garden-intro">
+    <h1>Welcome to My Digital Garden</h1>
+    This is my personal knowledge base where I document insights, patterns, and solutions across the full stack of modern software development. Think of it as a living collection of notes that grows and evolves with my learning journey.
+    </div>
+  <img src="./static/me.png" alt="Full Stack Ian" class="profile-image" width="150px" />
+</div>
 
-## Categories
 
-### Django
-- [Models](Django/models.md)
-- [Views](Django/views.md)
-- [Forms](Django/forms.md)
-- [URLs](Django/urls.md)
-- [Admin](Django/admin.md)
-- [Queries](Django/queries.md)
-- [Q Objects](Django/Q.md)
-- [Manage.py](Django/manage.py.md)
 
-### Python
-- [Decorators](Python/Decorators.md)
-- [List Comprehensions](Python/List%20comprehensions.md)
-- [Dictionary Comprehension](Python/Dictionary%20comprehension.md)
-- [Lists](Python/Lists.md)
-- [Strings](Python/Strings.md)
-- [Tuples](Python/Tuples.md)
-- [Ternary](Python/Ternary.md)
-- [Try Catch](Python/Try%20catch.md)
-- [Raising Errors](Python/Raising%20errors.md)
-- [Testing/Mocking](Python/Testing/Mocking.md)
+## What You'll Find Here
 
-### AWS
-- [Acronyms](AWS/acronyms.md)
-- [Classic Ports](AWS/Classic%20ports%20to%20know.md)
-- [SSH](AWS/SSH.md)
-- [EC2 Overview](AWS/EC2/overview.md)
-- [ELB Overview](AWS/ELB/overview.md)
-- [ASG Overview](AWS/ASG/overview.md)
-- [Storage: EBS vs EFS](AWS/Storage/EBS_vs_EFS.md)
+### 🐍 **Python Development**
+- Core language features and best practices
+- Framework guides (Django, Flask, FastAPI)
+- Testing methodologies and tools
+- Package management and virtual environments
 
-### SQL
-- [SELECT](SQL/SELECT/Syntax.md)
-- [JOINS](SQL/JOINS/Examples.md)
-- [GROUP BY](SQL/GROUP%20BY/Examples.md)
-- And more SQL topics...
+### ☁️ **AWS & Cloud Technologies**
+- AWS services and architectural patterns
+- Infrastructure as Code (CloudFormation, CDK)
+- Security best practices and compliance
+- Cost optimization strategies
 
-### Virtual Environment
-- [venv](Virtual%20environment/venv.md)
-- [Install pyenv](Virtual%20environment/Install%20pyenv.md)
+### 🗄️ **SQL & Database Management**
+- Query optimization techniques
+- Database design principles
+- Performance tuning and monitoring
+- Migration strategies
 
-### Package Management
-- [pip](Python%20package%20management/pip.md)
-- [Pip - Installing Packages](Pip%20-%20installing%20packages.md)
+### 🚀 **DevOps & Infrastructure**
+- CI/CD pipeline design and implementation
+- Containerization with Docker and Kubernetes
+- Monitoring and observability
+- Deployment automation
+
+### 🏗️ **Software Engineering Practices**
+- Clean code principles and design patterns
+- Testing strategies and methodologies
+- Code review processes
+- Documentation standards
+
+## Navigation Tips
+
+- Use the **search** function to quickly find specific topics
+- Browse by **tags** to explore related concepts
+- Check the **graph view** to see connections between notes
+- Each page includes links to related topics for deeper exploration
+
+## Contributing & Feedback
+
+This garden is constantly evolving. If you find errors, have suggestions, or want to discuss any of the topics covered here, feel free to reach out!
+
+---
+
+*Last updated: July 2025*
+
