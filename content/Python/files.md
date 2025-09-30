@@ -7,7 +7,6 @@ date: 2025-07-07
 lastmod: 2025-07-07
 ---
 
-# Python File Operations
 Python provides powerful tools for file handling, allowing you to read, write, and manipulate files easily. This guide covers the essential operations, methods, and patterns for working with files in Python, including reading and writing text and binary files, handling file paths with `pathlib`, and managing file encoding.
 
 ## Basic File Operations

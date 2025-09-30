@@ -7,8 +7,6 @@ date: 2025-07-01
 lastmod: 2025-07-01
 ---
 
-# pip - Python Package Management
-
 Python's standard package installer for managing dependencies and libraries.
 
 ## Basic Package Operations

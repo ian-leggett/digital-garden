@@ -10,8 +10,6 @@ description: "How to restrict access to Django views for authenticated users and
 date: 2025-06-11
 ---
 
-# Protecting Django Views
-
 Securing views is essential for controlling access to your application's resources. Django provides several built-in methods to protect views based on authentication status and permissions.
 
 ## Function-Based View Protection

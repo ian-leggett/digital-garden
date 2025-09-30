@@ -9,8 +9,6 @@ description: "Useful template functions and request methods in Django"
 date: 2025-06-12
 ---
 
-# Django Template Functions and Request Methods
-
 This guide covers practical template functions and request-related methods commonly used in Django templates.
 
 ## Template Tags and Filters

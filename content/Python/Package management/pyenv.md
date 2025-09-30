@@ -8,8 +8,6 @@ date: 2025-07-01
 lastmod: 2025-07-01
 ---
 
-# pyenv - Python Version Management
-
 Simple tool for managing multiple Python versions on your system.
 
 ## Installation

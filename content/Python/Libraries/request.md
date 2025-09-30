@@ -1,5 +1,5 @@
 ---
-title: "Python Requests Library"
+title: "Requests Library"
 description: "Essential guide to making HTTP requests in Python using the requests library"
 tags: [python, http, api, web-requests, networking]
 draft: false
@@ -7,7 +7,6 @@ date: 2025-07-15
 lastmod: 2025-07-15
 ---
 
-# Python Requests Library
 The `requests` library is a powerful and user-friendly HTTP client for Python. It simplifies the process of making HTTP requests, handling responses, and managing sessions. This guide covers the essential features, methods, and patterns for using the requests library effectively.
 
 ## Installation and Basic Usage

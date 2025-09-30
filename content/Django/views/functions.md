@@ -9,8 +9,6 @@ description: "How to implement function-based views in Django for CRUD operation
 date: 2025-06-10
 ---
 
-# Django Function-Based Views
-
 Function-based views (FBVs) are the simplest way to implement request handlers in Django. This guide demonstrates how to implement CRUD (Create, Read, Update, Delete) operations using function-based views with a Book/Author example.
 
 ## Basic View Structure

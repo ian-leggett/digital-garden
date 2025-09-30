@@ -9,8 +9,6 @@ description: "How to create and use custom template filters in Django"
 date: 2025-06-12
 ---
 
-# Django Custom Template Filters
-
 Template filters are a powerful way to transform and format data directly in your Django templates. While Django provides many built-in filters, you can create custom ones to handle specific formatting needs for your application.
 
 ## Setting Up Custom Filters

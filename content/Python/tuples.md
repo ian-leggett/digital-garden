@@ -7,7 +7,6 @@ date: 2025-07-02
 lastmod: 2025-07-02
 ---
 
-# Python Tuples
 Tuples are immutable ordered collections in Python, allowing you to store multiple items in a single variable. They are similar to lists but with the key difference that tuples cannot be modified after creation. This guide covers the essential operations, methods, and patterns for working with tuples in Python.
 
 ## Creation and Initialization

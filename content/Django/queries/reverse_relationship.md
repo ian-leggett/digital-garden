@@ -10,8 +10,6 @@ description: "How to use reverse relationships in Django's ORM with practical ex
 date: 2025-06-12
 ---
 
-# Django ORM Reverse Relationships
-
 Django's ORM makes it easy to navigate from one model to related models using reverse relationships. This guide demonstrates how to use these relationships effectively.
 
 ## Basic Model Setup

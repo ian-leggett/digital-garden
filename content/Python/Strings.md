@@ -7,8 +7,6 @@ date: 2025-06-30
 lastmod: 2025-06-30
 ---
 
-# Python Strings
-
 Strings are immutable sequences of characters used for text processing and data manipulation in Python.
 
 ## String Creation

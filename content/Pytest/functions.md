@@ -7,7 +7,6 @@ date: 2025-07-17
 lastmod: 2025-07-17
 ---
 
-# Testing Functions with Pytest
 Pytest is a powerful testing framework for Python that makes it easy to write simple and scalable test cases. This guide covers how to set up pytest, write basic tests, use fixtures, and mock external dependencies.
 
 ## Basic Function Testing

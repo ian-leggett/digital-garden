@@ -6,8 +6,7 @@ description: ""
 date: 2025-05-29
 ---
 
-[[#Filter by string match]]
-
+Django's ORM allows you to interact with your database using Python code instead of raw SQL. Here are some common query operations you can perform using Django's QuerySet API.
 
 ### Filter by string match 
 

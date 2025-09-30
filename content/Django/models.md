@@ -6,8 +6,6 @@ description: ""
 date: 2025-05-29
 ---
 
-# Django Models
-
 ## What is a Model?
 A Django model is a Python class that defines a database table structure, with each attribute representing a database field.
 

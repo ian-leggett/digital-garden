@@ -7,7 +7,6 @@ date: 2025-07-08
 lastmod: 2025-07-08
 ---
 
-# Python Comprehensions
 Comprehensions are a concise way to create lists, dictionaries, sets, and generators in Python. They allow you to generate collections in a single line of code, making your code more readable and efficient. This guide covers the essential patterns, syntax, and best practices for using comprehensions in Python
 
 ## List Comprehensions

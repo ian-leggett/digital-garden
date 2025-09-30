@@ -7,10 +7,6 @@ date: 2025-08-21
 lastmod: 2025-08-21
 ---
 
-# Naming Practices in Python
-
-## Introduction
-
 Consistent and descriptive naming improves code readability, maintainability, and collaboration. Python follows conventions outlined in PEP 8 and widely accepted best practices.
 
 ## Core Concepts

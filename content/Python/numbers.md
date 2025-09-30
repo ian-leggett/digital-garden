@@ -7,8 +7,6 @@ date: 2025-06-30
 lastmod: 2025-06-30
 ---
 
-# Python Numbers
-
 Python provides three numeric types: integers, floating-point numbers, and complex numbers. Each serves specific use cases in numerical computing.
 
 ## Numeric Types

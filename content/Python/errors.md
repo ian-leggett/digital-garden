@@ -1,5 +1,5 @@
 ---
-title: "Python Errors and Exceptions"
+title: "Errors and Exceptions"
 description: "Exception handling, custom exceptions, and error management patterns in Python"
 tags: [python, exceptions, error-handling, debugging]
 draft: false
@@ -7,7 +7,7 @@ date: 2025-08-19
 lastmod: 2025-08-19
 ---
 
-# Python Errors and Exceptions
+# Errors and Exceptions
 In Python, errors and exceptions are used to handle unexpected situations that arise during program execution. Understanding how to manage exceptions is crucial for writing robust and maintainable code.
 
 ## Core Concepts

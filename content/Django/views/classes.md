@@ -10,8 +10,6 @@ description: "How to implement class-based views in Django for CRUD operations"
 date: 2025-06-10
 ---
 
-# Django Class-Based Views
-
 Django's class-based views (CBVs) provide an object-oriented approach to organizing view logic. They encapsulate common patterns and reduce code duplication for CRUD operations.
 
 ## Basic Model Setup

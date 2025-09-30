@@ -7,7 +7,6 @@ date: 2025-07-31
 lastmod: 2025-07-31
 ---
 
-# Lambda Functions
 In Python, `lambda` functions are small, anonymous functions defined using the `lambda` keyword. They are often used for short, throwaway functions that are not needed elsewhere in the code.
 
 ## Core Concepts

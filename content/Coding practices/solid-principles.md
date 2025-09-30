@@ -7,8 +7,6 @@ date: 2025-07-01
 lastmod: 2025-07-01
 ---
 
-# SOLID Principles
-
 Five fundamental principles for writing maintainable, extensible object-oriented code.
 
 ## Single Responsibility Principle (SRP)

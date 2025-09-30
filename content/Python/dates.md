@@ -7,7 +7,6 @@ date: 2025-07-21
 lastmod: 2025-07-21
 ---
 
-# Working with Dates and Times in Python
 In Python, handling dates and times is essential for many applications, from logging events to scheduling tasks. The `datetime` module provides powerful tools for creating, manipulating, and formatting date and time objects. This guide covers the core concepts, common patterns, and best practices for working with dates and times in Python.
 
 ## Core Concepts

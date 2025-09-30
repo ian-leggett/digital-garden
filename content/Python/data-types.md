@@ -12,8 +12,6 @@ lastmod: 2025-06-30
 draft: false
 ---
 
-# Python Data Types
-
 Python has several built-in data types that are essential for programming. Here's a comprehensive overview of the most commonly used ones.
 
 > [!info] Overview

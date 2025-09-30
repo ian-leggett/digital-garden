@@ -10,8 +10,6 @@ description: "How Django's session-based authentication system works"
 date: 2025-06-11
 ---
 
-# Django Session Authentication
-
 Django provides a robust, secure session-based authentication system out of the box. This system handles user accounts, groups, permissions, and cookie-based user sessions.
 
 ## How It Works
