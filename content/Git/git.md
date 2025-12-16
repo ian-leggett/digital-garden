@@ -4,6 +4,7 @@ description: "A concise guide to the most useful Git commands for everyday devel
 tags: [git, version-control, development, workflow]
 draft: false
 date: 2025-12-16
+lastmod: 2025-12-16
 ---
 
 # Essential Git Commands
