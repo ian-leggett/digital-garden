@@ -66,10 +66,10 @@ git branch
 git branch <branch-name>
 
 # Switch to a branch
-git checkout <branch-name>
+git switch <branch-name>
 
 # Create and switch to a new branch
-git checkout -b <branch-name>
+git switch -c <branch-name>
 
 # Delete a branch
 git branch -d <branch-name>
@@ -120,10 +120,10 @@ git rebase --abort
 
 ```bash
 # Discard changes in working directory
-git checkout -- <file>
+git restore <file>
 
 # Unstage a file
-git reset HEAD <file>
+git restore --staged <file>
 
 # Reset to a specific commit (keep changes)
 git reset --soft <commit-hash>
@@ -186,7 +186,7 @@ git log --grep="search term"
 git blame <file>
 
 # Create an alias
-git config --global alias.co checkout
+git config --global alias.sw switch
 git config --global alias.br branch
 git config --global alias.ci commit
 git config --global alias.st status
@@ -206,7 +206,7 @@ git config --global alias.st status
 ### Feature Branch Workflow
 ```bash
 # Create feature branch
-git checkout -b feature/new-feature
+git switch -c feature/new-feature
 
 # Make changes and commit
 git add .
@@ -216,7 +216,7 @@ git commit -m "Add new feature"
 git push -u origin feature/new-feature
 
 # After review, merge to main
-git checkout main
+git switch main
 git pull origin main
 git merge feature/new-feature
 git push origin main
