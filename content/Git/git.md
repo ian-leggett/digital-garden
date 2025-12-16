@@ -1,7 +1,7 @@
 ---
 title: "Essential Git Commands"
 description: "A concise guide to the most useful Git commands for everyday development"
-tags: ["git", "version-control", "development", "workflow"]
+tags: [git, version-control, development, workflow]
 draft: false
 date: 2025-12-16
 ---
