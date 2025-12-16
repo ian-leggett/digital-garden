@@ -7,8 +7,6 @@ date: 2025-12-16
 lastmod: 2025-12-16
 ---
 
-# Essential Git Commands
-
 A quick reference for the most commonly used Git commands in daily development work.
 
 ## Setup & Configuration
