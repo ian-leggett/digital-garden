@@ -4,7 +4,7 @@ description: "A comprehensive knowledge base covering software engineering, clou
 tags: ["home", "knowledge-base", "programming", "cloud", "devops"]
 draft: false
 date: 2025-07-02
-lastmod: 2025-07-02
+lastmod: 2025-12-16
 ---
 
 <div class="profile-header">
@@ -49,6 +49,12 @@ lastmod: 2025-07-02
 - Code review processes
 - Documentation standards
 
+### 🔧 **Git & Version Control**
+- Essential Git commands and workflows
+- Branching and merging strategies
+- Collaboration best practices
+- Undoing changes and troubleshooting
+
 ## Navigation Tips
 
 - Use the **search** function to quickly find specific topics
@@ -62,5 +68,5 @@ This garden is constantly evolving. If you find errors, have suggestions, or wan
 
 ---
 
-*Last updated: July 2025*
+*Last updated: December 2025*
 
