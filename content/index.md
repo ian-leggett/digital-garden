@@ -4,7 +4,7 @@ description: "A comprehensive knowledge base covering software engineering, clou
 tags: ["home", "knowledge-base", "programming", "cloud", "devops"]
 draft: false
 date: 2025-07-02
-lastmod: 2025-12-16
+lastmod: 2026-05-21
 ---
 
 <div class="profile-header">
@@ -55,6 +55,12 @@ lastmod: 2025-12-16
 - Collaboration best practices
 - Undoing changes and troubleshooting
 
+### 🏛️ **System Design**
+- API design: REST, GraphQL, gRPC, and protocols
+- Relational and NoSQL database trade-offs
+- Networking fundamentals (TCP vs UDP)
+- Reliability patterns and failure modes
+
 ## Navigation Tips
 
 - Use the **search** function to quickly find specific topics
@@ -68,5 +74,5 @@ This garden is constantly evolving. If you find errors, have suggestions, or wan
 
 ---
 
-*Last updated: December 2025*
+*Last updated: May 2026*
 
