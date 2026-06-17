@@ -61,3 +61,16 @@ Pages with `draft: true` are excluded from the build by `Plugin.RemoveDrafts()`.
 ## Adding Frontmatter in Bulk
 
 `add-metadata.cjs` is a utility script (currently scoped to `content/python/**`) for bulk-adding frontmatter to files that lack it. Adjust the glob and default tags as needed before running with `node add-metadata.cjs`.
+
+## Content Generation Pipeline
+
+**MANDATORY:** Always run all three stages before writing any file. Do not skip or combine stages, and do not write the final file until the critique is complete.
+
+1. **Write** a draft in the response (not to disk) — include honest tradeoffs and failure modes
+2. **Critique** the draft in the response as a skeptical senior engineer — flag outdated claims, missing context, oversimplifications, and anything technically imprecise
+3. **Revise** into the final markdown file, incorporating all critique points
+
+## Accuracy Rules
+- Never state benchmarks without scale context
+- Always include "when NOT to use this"
+- Flag anything that may have changed since 2022
